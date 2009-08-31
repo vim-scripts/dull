@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2764
+
+This is a very low saturation version based on default and torte colour scheme.  It looks only little different from syntax turned off, and is good for long-time works.
+
+This colour scheme can work for both 'light' and 'black' backgrounds.  Use "set background=..." to switch the different styles.
+
+Basically, it is designed for GUI, but it can fallback to a colourful mode in low-colour terminals.
+
